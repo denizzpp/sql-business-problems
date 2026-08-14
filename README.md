@@ -10,7 +10,7 @@ Each project includes a short description of the business problem, the analytica
 
 Analyze subscription payment activity to determine the furthest stage reached by each user and identify drop-offs throughout the payment process.
 
-**SQL concepts:** CTEs, LEFT JOIN, CASE, aggregate functions, GROUP BY
+**SQL concepts:** CTEs, JOIN, CASE, aggregate functions, GROUP BY
 
 [View Project](./01_payment_funnel_analysis/)
 

@@ -14,6 +14,14 @@ Analyze subscription payment activity to determine the furthest stage reached by
 
 [View Project](./01_payment_funnel_analysis/)
 
+### 2. Monthly Revenue Descriptive Statistics
+
+Analyze monthly subscription revenue by product and summarize performance and variability using descriptive statistics.
+
+**SQL concepts:** CTEs, JOIN, DATE_TRUNC, aggregate functions, GROUP BY
+
+[View Project](./02_monthly_revenue_statistics/)
+
 ## Topics Covered
 
 - Common Table Expressions (CTEs)
@@ -24,14 +32,6 @@ Analyze subscription payment activity to determine the furthest stage reached by
 - Window Functions
 - Aggregations
 - Business-oriented SQL analysis
-
-### 2. Monthly Revenue Descriptive Statistics
-
-Analyze monthly subscription revenue by product and summarize performance and variability using descriptive statistics.
-
-**SQL concepts:** CTEs, JOIN, DATE_TRUNC, aggregate functions, GROUP BY
-
-[View Project](./02_monthly_revenue_statistics/)
 
 ## Learning Context
 

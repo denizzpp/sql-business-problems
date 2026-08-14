@@ -24,3 +24,7 @@ Analyze subscription payment activity to determine the furthest stage reached by
 - Window Functions
 - Aggregations
 - Business-oriented SQL analysis
+
+## Learning Context
+
+This analysis was completed as part of the **SQL Hands-On Practice: Solve Business Problems** course by Jess Ramos. The business problem has been summarized in my own words, and the SQL solution reflects my own work and approach.

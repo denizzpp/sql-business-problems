@@ -25,6 +25,14 @@ Analyze subscription payment activity to determine the furthest stage reached by
 - Aggregations
 - Business-oriented SQL analysis
 
+### 2. Monthly Revenue Descriptive Statistics
+
+Analyze monthly subscription revenue by product and summarize performance and variability using descriptive statistics.
+
+**SQL concepts:** CTEs, JOIN, DATE_TRUNC, aggregate functions, GROUP BY
+
+[View Project](./02_monthly_revenue_statistics/)
+
 ## Learning Context
 
-This analysis was completed as part of the **SQL Hands-On Practice: Solve Business Problems** course by Jess Ramos. The business problem has been summarized in my own words, and the SQL solution reflects my own work and approach.
+These analysis were completed as part of the **SQL Hands-On Practice: Solve Business Problems** course by Jess Ramos. The business problems have been summarized in my own words, and the SQL solution reflects my own work and approach.

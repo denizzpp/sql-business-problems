@@ -86,6 +86,14 @@ Track cumulative sales performance over time and measure each employee's progres
 
 [View Project](./10_sales_quota_running_total/)
 
+### 11. Payment Status Time Analysis
+
+Analyze a customer's payment journey by using LEAD() to measure the time spent between consecutive payment status events.
+
+**SQL concepts:** window functions, LEAD, CTEs, PARTITION BY, timestamp calculations, sequential event analysis
+
+[View Project](./11_payment_status_time_analysis/)
+
 ## Topics Covered
 
 - Common Table Expressions (CTEs)

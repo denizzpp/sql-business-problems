@@ -38,6 +38,14 @@ Identify potential sales upsell opportunities by creating a binary customer flag
 
 [View Project](./04_upsell_opportunity_flagging/)
 
+### 5. Customer Support Event Pivot
+
+Transform front-end customer support events into user-level activity metrics using conditional aggregation.
+
+**SQL concepts:** JOIN, CASE, conditional aggregation, SUM, GROUP BY
+
+[View Project](./05_customer_support_event_pivot/)
+
 ## Topics Covered
 
 - Common Table Expressions (CTEs)

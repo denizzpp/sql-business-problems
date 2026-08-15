@@ -58,7 +58,3 @@ The monthly revenue values are then aggregated by product to calculate:
 - `AVG()`
 - `STDDEV()`
 - `GROUP BY`
-
-## Learning Context
-
-This analysis was completed as part of the LinkedIn Learning course **SQL Hands-On Practice: Solve Business Problems** by Jess Ramos. The business problem has been summarized in my own words, and the SQL solution reflects my own work and approach.

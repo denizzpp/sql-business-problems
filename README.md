@@ -30,6 +30,14 @@ Analyze email campaign engagement by measuring the distribution of link-click fr
 
 [View Project](./03_email_click_distribution/)
 
+### 4. Upsell Opportunity Flagging
+
+Identify potential sales upsell opportunities by creating a binary customer flag based on user volume and product subscriptions.
+
+**SQL concepts:** CASE, COUNT, SUM, GROUP BY, conditional logic
+
+[View Project](./04_upsell_opportunity_flagging/)
+
 ## Topics Covered
 
 - Common Table Expressions (CTEs)

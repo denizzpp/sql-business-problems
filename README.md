@@ -97,14 +97,18 @@ Analyze a customer's payment journey by using LEAD() to measure the time spent b
 ## Topics Covered
 
 - Common Table Expressions (CTEs)
-- CASE statements
-- JOINs
-- UNION
-- Self Joins
+- JOINs and Self Joins
+- CASE Statements and Conditional Aggregation
+- UNION and Data Reshaping
+- Aggregate Functions
 - Window Functions
-- Aggregations
-- Business-oriented SQL analysis
+- Running Totals
+- LEAD() and Sequential Event Analysis
+- Date and Timestamp Analysis
+- Business-Oriented SQL Problem Solving
 
-## Learning Context
+## About This Repository
 
-These analysis were completed as part of the **SQL Hands-On Practice: Solve Business Problems** course by Jess Ramos. The business problems have been summarized in my own words, and the SQL solution reflects my own work and approach.
+This repository contains 11 SQL business problem exercises completed while working through the LinkedIn Learning course **SQL Hands-On Practice: Solve Business Problems** by Jess Ramos.
+
+The exercises cover progressively more advanced SQL techniques, from aggregation and conditional logic to self joins and window functions. Business problem descriptions have been summarized in my own words, and the SQL files contain my solutions with additional formatting and documentation for readability.

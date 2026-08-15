@@ -78,6 +78,14 @@ Compare consecutive months using a self join and identify periods where total re
 
 [View Project](./09_month_over_month_revenue_self_join/)
 
+### 10. Sales Quota Progress with Running Totals
+
+Track cumulative sales performance over time and measure each employee's progress toward their assigned sales quota.
+
+**SQL concepts:** window functions, SUM OVER, PARTITION BY, CTEs, JOIN, running totals
+
+[View Project](./10_sales_quota_running_total/)
+
 ## Topics Covered
 
 - Common Table Expressions (CTEs)

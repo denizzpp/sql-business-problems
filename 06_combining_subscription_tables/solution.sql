@@ -16,7 +16,7 @@ SQL Concepts:
 
 WITH all_subscriptions AS (
     SELECT
-        customerid,
+        subscriptionid,
         expirationdate
     FROM subscriptionsproduct1
     WHERE active = 1
@@ -24,7 +24,7 @@ WITH all_subscriptions AS (
     UNION ALL
 
     SELECT
-        customerid,
+        subscriptionid,
         expirationdate
     FROM subscriptionsproduct2
     WHERE active = 1

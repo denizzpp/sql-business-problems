@@ -14,11 +14,11 @@ SQL Concepts:
 
 SELECT
     customerid,
-    COUNT(productid) AS num_products,
+    COUNT(DISTINCT productid) AS num_products,
     SUM(numberofusers) AS total_users,
     CASE
         WHEN SUM(numberofusers) >= 5000
-             OR COUNT(productid) = 1
+             OR COUNT(DISTINCT productid) = 1
             THEN 1
         ELSE 0
     END AS upsell_opportunity

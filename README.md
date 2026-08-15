@@ -62,6 +62,14 @@ Transform multiple cancellation reason columns into rows and measure the share o
 
 [View Project](./07_cancellation_reason_analysis/)
 
+### 8. Employee-Manager Self Join Analysis
+
+Connect employees with their managers using a self join and handle missing manager contact information with fallback logic.
+
+**SQL concepts:** self joins, LEFT JOIN, COALESCE, table aliases, NULL handling
+
+[View Project](./08_employee_manager_self_join/)
+
 ## Topics Covered
 
 - Common Table Expressions (CTEs)

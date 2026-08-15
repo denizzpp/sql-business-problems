@@ -70,6 +70,14 @@ Connect employees with their managers using a self join and handle missing manag
 
 [View Project](./08_employee_manager_self_join/)
 
+### 9. Month-over-Month Revenue Comparison
+
+Compare consecutive months using a self join and identify periods where total revenue increased month over month.
+
+**SQL concepts:** CTEs, self joins, DATE_TRUNC, DATEDIFF, SUM, row-to-row comparison
+
+[View Project](./09_month_over_month_revenue_self_join/)
+
 ## Topics Covered
 
 - Common Table Expressions (CTEs)

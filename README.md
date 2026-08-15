@@ -54,6 +54,14 @@ Combine active subscriptions stored across separate product tables and analyze u
 
 [View Project](./06_combining_subscription_tables/)
 
+### 7. Cancellation Reason Analysis
+
+Transform multiple cancellation reason columns into rows and measure the share of canceled subscriptions associated with price concerns.
+
+**SQL concepts:** CTEs, UNION, unpivoting, CASE, COUNT DISTINCT, conditional aggregation
+
+[View Project](./07_cancellation_reason_analysis/)
+
 ## Topics Covered
 
 - Common Table Expressions (CTEs)

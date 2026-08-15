@@ -46,6 +46,14 @@ Transform front-end customer support events into user-level activity metrics usi
 
 [View Project](./05_customer_support_event_pivot/)
 
+### 6. Combining Subscription Tables
+
+Combine active subscriptions stored across separate product tables and analyze upcoming expirations by year.
+
+**SQL concepts:** CTEs, UNION ALL, filtering, DATE_TRUNC, aggregate functions, GROUP BY
+
+[View Project](./06_combining_subscription_tables/)
+
 ## Topics Covered
 
 - Common Table Expressions (CTEs)

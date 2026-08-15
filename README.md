@@ -22,6 +22,14 @@ Analyze monthly subscription revenue by product and summarize performance and va
 
 [View Project](./02_monthly_revenue_statistics/)
 
+### 3. Email Click Distribution Analysis
+
+Analyze email campaign engagement by measuring the distribution of link-click frequency across users.
+
+**SQL concepts:** CTEs, filtering, aggregate functions, GROUP BY, ORDER BY
+
+[View Project](./03_email_click_distribution/)
+
 ## Topics Covered
 
 - Common Table Expressions (CTEs)
